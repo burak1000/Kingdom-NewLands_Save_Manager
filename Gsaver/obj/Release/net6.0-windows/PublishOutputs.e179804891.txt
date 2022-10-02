@@ -1,0 +1,5 @@
+C:\Users\burak\source\repos\Gsaver\Gsaver\bin\Release\net6.0-windows\publish\Gsaver.exe
+C:\Users\burak\source\repos\Gsaver\Gsaver\bin\Release\net6.0-windows\publish\Gsaver.dll
+C:\Users\burak\source\repos\Gsaver\Gsaver\bin\Release\net6.0-windows\publish\Gsaver.deps.json
+C:\Users\burak\source\repos\Gsaver\Gsaver\bin\Release\net6.0-windows\publish\Gsaver.runtimeconfig.json
+C:\Users\burak\source\repos\Gsaver\Gsaver\bin\Release\net6.0-windows\publish\Gsaver.pdb
